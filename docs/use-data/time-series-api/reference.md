@@ -102,10 +102,6 @@ fetch('https://mobility.api.opendatahub.com/v2/flat/ParkingStation')
   </TabItem>
 </Tabs>
 
-:::info
-The `.com` and `.bz.it` domains both serve data. Use `https://mobility.api.opendatahub.com` as the canonical host.
-:::
-
 ## 2. Representations
 
 The Time Series API supports different data representations to suit various use cases.
