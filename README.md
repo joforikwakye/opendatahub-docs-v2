@@ -3,6 +3,10 @@
 Open Data Hub Documentation
 =============================
 
+This repository contains documentation about the Open Data Hub project.
+
+Note: If you experience any issue when using the APIs (like e.g., endpoints down or throwing errors, query outcome not meeting the expected result), please send an email directly to help@opendatahub.com. Your feedback or request will be processed directly by the Customer Care Team and you will likely receive a quick response!
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
