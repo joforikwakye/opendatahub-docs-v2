@@ -41,6 +41,12 @@ There are two ways people work with the Open Data Hub, and this documentation is
     </a>
   </div>
   <div className="col col--4 margin-bottom--md">
+    <a className="card padding--lg" href="/use-data/geo-api/reference" style={{height: '100%'}}>
+      <h3>Geo API</h3>
+      <p>Read geospatial data for stations, municipalities.</p>
+    </a>
+  </div>
+  <div className="col col--4 margin-bottom--md">
     <a className="card padding--lg" href="/data-ingestion/getting-started" style={{height: '100%'}}>
       <h3>Bring data in</h3>
       <p>Build a collector and transformer to ingest a new source.</p>
