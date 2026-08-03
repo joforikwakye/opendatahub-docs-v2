@@ -9,9 +9,7 @@ The Geo API provides fast, map-optimized access to Open Data Hub geospatial data
 
 It is designed specifically to solve performance and quota issues that come from loading large geometry-heavy datasets through the Content (REST) API. Use the Geo API to **display data on a map**; use the [Content API](../content-api/reference) to **fetch full detail records**.
 
-:::important
-The Content (REST) API is now only intended for retrieving **detail data**. List/map calls for spatial data have been replaced by the Geo API.
-:::
+
 
 ## 1. Base URL and entry points
 
